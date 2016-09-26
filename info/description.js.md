@@ -50,7 +50,7 @@ client.whenEnemyInRange(attackNearEnemy);
 
 The battle field has a size of 40 by 40 tiles, but the half of that is occupied by rocks. The zero coordinates are placed in the top corner. This image should help you to understand how axises are situated:
  
-![Map Axises](map.png)
+![Map Axises](../media/map.png)
 
 ## Items
 
